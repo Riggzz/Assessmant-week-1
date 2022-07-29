@@ -10,7 +10,7 @@
 */
 
 //CODE HERE
-
+const gitDefinition = "designed as a set of command line that are designed to execute on a unix stlye command line"
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,7 +18,7 @@
 */
 
 //CODE HERE
-
+const gitHubDefinition = 'online software that stores, tracks, and collaborates with other software projects'
 //////////////////PROBLEM 3////////////////////
 /*
     Create a variable called 'gitInitDefinition'.  
@@ -26,7 +26,7 @@
 */
 
 //CODE HERE
-
+const gitInitDefinition = 'initialize or reinitialize a new or existing git repository'
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -34,7 +34,7 @@
 */
 
 //CODE HERE
-
+const gitCloneDefinition = 'targets an existing repository and clones it'
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
@@ -42,7 +42,7 @@
 */
 
 //CODE HERE
-
+const gitStatusDefinition = 'displays the current state of repository and staging area'
 //////////////////PROBLEM 6////////////////////
 /*
     Create a variable called 'gitAddDefinition'.  
@@ -53,7 +53,7 @@
 */
 
 //CODE HERE
-
+const gitAddDefinition = 'adds a change in the current repository'
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -64,7 +64,7 @@
 */
 
 //CODE HERE
-
+const gitCommitDefinition = 'it saves the current state of the current repository with a unique ID'
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -73,3 +73,4 @@
 */
 
 //CODE HERE
+const gitPushDefinition = 'uploads local repositories to a remote repository'
