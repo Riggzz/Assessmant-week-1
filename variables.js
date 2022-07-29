@@ -7,7 +7,7 @@ let myName = 'Ethan';
 /* Create a variable called 'faveNum' with a value that is your favorite number. */
 
 //CODE HERE
-let faveNum = '3';
+let faveNum = 3;
 //////////////////PROBLEM 3////////////////////
 /* Create a variable called 'lovesCode' and assign it a boolean value. */
 
@@ -21,7 +21,7 @@ let lovesCode = true;
 */
 
 //CODE HERE
-if (faveNum = 13){
+if (faveNum === 13){
   console.log('lucky 13')
 } else{
   console.log('not lucky 13')
