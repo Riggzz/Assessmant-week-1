@@ -10,7 +10,8 @@
 */
 
 //CODE HERE
-const gitDefinition = "designed as a set of command line that are designed to execute on a unix stlye command line"
+const gitDefinition = "free and open source software for distributed version control: tracking changes in any set of files 
+'usually used for coordinating work among programmers collaboratively developing source code during software development. "
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -54,6 +55,7 @@ const gitStatusDefinition = 'displays the current state of repository and stagin
 
 //CODE HERE
 const gitAddDefinition = 'adds a change in the current repository'
+const gitAddCode = 'git add .'
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -65,6 +67,7 @@ const gitAddDefinition = 'adds a change in the current repository'
 
 //CODE HERE
 const gitCommitDefinition = 'it saves the current state of the current repository with a unique ID'
+const gitCommitCode = 'git commit -m "initial commit'
 
 //////////////////PROBLEM 8////////////////////
 /*
